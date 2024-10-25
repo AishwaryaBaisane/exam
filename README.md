@@ -10,7 +10,7 @@
 
 • Delete: Removing data or records from the database. For example, deleting an old user account or removing discontinued products from an inventory list.
 
-<img src ="https://github.com/user-attachments/assets/dfd22c2d-be14-4e3f-88af-de8dc19e6e01">
+<img src ="https://github.com/user-attachments/assets/5ff02c35-90b2-41c1-a455-d543e7d0eb08">
 <img src = "https://github.com/user-attachments/assets/5536e152-e7d4-439e-bf6e-9c5751a783ed">
 https://github.com/user-attachments/assets/201a038b-dc1b-40bc-895f-d07de1d9d662
 
